@@ -22,7 +22,7 @@ React (Functional Components with Hooks)
 bootstrap for basic styling and responsiveness.
 
 Live Demo
-You can check out the live demo of the app at: [App Live URL]
+You can check out the live demo of the app at: [[App Live URL](https://rococo-cannoli-44585b.netlify.app/)]
 
 Installation and Setup Instructions
 To run the project locally, follow these steps:
