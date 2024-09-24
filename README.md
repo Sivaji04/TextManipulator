@@ -28,17 +28,17 @@ Installation and Setup Instructions
 To run the project locally, follow these steps:
 
 Clone the repository:-
-git clone (https://github.com/Sivaji04/TextManipulator.git)
-Navigate into the project directory
+git clone [(https://github.com/Sivaji04/TextManipulator.git)]
 
-cd real-time-text-statistics
+Navigate into the project directory
+-> cd TextManipulator
 
 Install dependencies
-npm install
+-> npm install
 
 Run the app
+->npm start
 
-npm start
 Open your web browser and navigate to http://localhost:3000 to view the app.
 
 This will start the development server, and the app will be available at http://localhost:3000.
