@@ -63,8 +63,7 @@ The words "Hi" will be highlighted.
 Responsive Design
 The app is designed to work across various screen sizes, ensuring a smooth experience on both desktop and mobile devices.
 Project Structure
-css
-Copy code
+
 .
 ├── public
 │   ├── index.html
