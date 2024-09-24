@@ -48,6 +48,7 @@ Type or paste text into the large textarea provided.
 As you type, the following statistics will be displayed in real-time:
 Unique word count.
 Character count excluding spaces and punctuation.
+
 To perform a string replacement:
 Enter the string you want to search for in the first input field.
 Enter the replacement string in the second input field.
@@ -60,10 +61,11 @@ Character Count (Excluding spaces and punctuation): 17
 After string replacement ("Hello" → "Hi"):
 Replaced Text: "Hi world! Hi React."
 The words "Hi" will be highlighted.
+
 Responsive Design
 The app is designed to work across various screen sizes, ensuring a smooth experience on both desktop and mobile devices.
 Project Structure
-[
+
 .
 ├── public
 │   ├── index.html
@@ -80,7 +82,7 @@ Project Structure
 │   └── ...
 ├── README.md
 └── package.json
-]
+
 Bonus Features
 The replaced words are highlighted after the replacement, offering visual feedback.
 Author
