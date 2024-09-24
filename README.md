@@ -28,7 +28,7 @@ Installation and Setup Instructions
 To run the project locally, follow these steps:
 
 Clone the repository:-
-git clone https://github.com/yourusername/real-time-text-statistics.git
+git clone (https://github.com/Sivaji04/TextManipulator.git)
 Navigate into the project directory
 
 cd real-time-text-statistics
