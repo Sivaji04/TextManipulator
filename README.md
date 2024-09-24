@@ -20,7 +20,8 @@ After replacing a string, the replaced words are highlighted in the textarea for
 Technologies Used
 React (Functional Components with Hooks)
 bootstrap for basic styling and responsiveness.
-
+5. React Context
+In this project, i add some extra features like dark mode and light mode using react context
 Live Demo
 You can check out the live demo of the app at: [[App Live URL](https://rococo-cannoli-44585b.netlify.app/)]
 
